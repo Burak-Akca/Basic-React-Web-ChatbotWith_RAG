@@ -1,0 +1,8 @@
+
+credential.json
+.dockerignore
+.env
+RagProje.py
+__pycache__
+.lama
+Dockerfile

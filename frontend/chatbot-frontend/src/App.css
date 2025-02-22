@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+.Header {
+margin: auto;
+width: 75%;
+height: 600px;
+background-color: #0a0a0a;
+color: white;
+display: flex;
+justify-content: start;
+align-items: start;
+
+
+
+}
+
+.box {
+border: 1px solid green;
+padding: 20px;
+margin: 15px;
+width: 200px;
+box-sizing: border-box;
+text-align: center;
+}
+
